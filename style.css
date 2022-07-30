@@ -1,0 +1,18 @@
+#parent
+{
+ border: 2px solid black;
+ border-radius: 5px;
+ height: 50%;
+ width: 50%;
+ margin-left: 630px;
+ 
+}
+
+
+.text-style
+{
+ font-size: 20px;
+ margin-top: 10px;
+
+
+}
